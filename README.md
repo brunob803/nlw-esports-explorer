@@ -18,3 +18,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## 📧  Contato
 
 brunob803@gmail.com
+https://www.linkedin.com/in/brunob803/
